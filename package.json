@@ -1,5 +1,5 @@
 {
-  "name": "node-linkedin",
+  "name": "node-linkedin-simple",
   "description": "Node.JS bindings for LinkedIn API",
   "version": "0.0.1",
   "author": {
@@ -29,6 +29,6 @@
   "bugs": {
     "url": "https://github.com/paulsamchuk/node-linkedin/issues"
   },
-  "_id": "node-linkedin@0.0.1",
+  "_id": "node-linkedin@0.0.1a",
   "_from": "node-linkedin@"
 }

@@ -17,7 +17,8 @@ i.question("Enter oauth_verifier: ", function(code) {
   process.stdin.destroy();
   console.log(callbackUrl);
   linkedIn.OAuth2.getAccessToken(code, callbackUrl, function(error, accessToken, accessTokenSecret) {
-    if(error) console.log(error);    
+    if(error) console.log(error);
+    console.log(arguments);
     var params = {};
 
     params.access_token = accessToken;
