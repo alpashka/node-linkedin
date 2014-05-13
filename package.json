@@ -1,0 +1,34 @@
+{
+  "name": "node-linkedin",
+  "description": "Node.JS bindings for LinkedIn API",
+  "version": "0.0.1",
+  "author": {
+    "name": "Pavel Samchuk",
+    "url": "https://github.com/paulsamchuk"
+  },
+  "homepage": "https://github.com/paulsamchuk/node-linkedin",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulsamchuk/node-linkedin.git"
+  },
+  "main": "index",
+  "dependencies": {
+    "oauth": "0.9.10",
+    "qs": "~0.6.5"
+  },
+  "keywords": [
+    "oauth",
+    "rest",
+    "linkedin",
+    "api",
+    "wrapper"
+  ],
+  "engines": {
+    "node": "*"
+  },  
+  "bugs": {
+    "url": "https://github.com/paulsamchuk/node-linkedin/issues"
+  },
+  "_id": "node-linkedin@0.0.1",
+  "_from": "node-linkedin@"
+}
