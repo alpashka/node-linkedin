@@ -14,7 +14,7 @@
   "main": "index",
   "dependencies": {
     "oauth": "0.9.10",
-    "qs": "~0.6.5"
+    "qs": "~1.2.1"
   },
   "keywords": [
     "oauth",
